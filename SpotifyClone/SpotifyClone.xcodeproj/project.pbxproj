@@ -19,6 +19,7 @@
 		2F88B2D42C9CA39600D2411C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2F88B2D62C9CA39700D2411C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F88B2D92C9CA39700D2411C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2FB064352CA3778000B39604 /* InClassDemo3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = InClassDemo3.swift; path = "../../f24-bootcamp-counter/InClassDemo3.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		2F88B2C62C9CA39600D2411C = {
 			isa = PBXGroup;
 			children = (
+				2FB064352CA3778000B39604 /* InClassDemo3.swift */,
 				2F88B2D12C9CA39600D2411C /* SpotifyClone */,
 				2F88B2D02C9CA39600D2411C /* Products */,
 			);
